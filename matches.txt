@@ -1,0 +1,4 @@
+TeamA;TeamB;3;1;true
+TeamC;TeamD;2;2;true
+TeamA;TeamC;1;0;true
+TeamB;TeamD;0;0;false
